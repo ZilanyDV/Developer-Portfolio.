@@ -108,3 +108,14 @@ nav a {
     font-weight: 400;
     text-align: center;
 }
+main{
+    max-width: 1140px;
+    margin: 0px auto;
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.info-title{
+    text-align: center;
+}
