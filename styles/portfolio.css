@@ -119,3 +119,12 @@ main{
 .info-title{
     text-align: center;
 }
+.section-description{
+    color:  #757575;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+#what-description{
+    padding: 30px 115px;
+}
